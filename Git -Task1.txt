@@ -1,0 +1,4 @@
+Full name: Akinsola Abayomi
+Email: Olasunkami010@gmail.com
+Slack Username: @akins
+Tracks: Backend, Go Mobile Flutter
